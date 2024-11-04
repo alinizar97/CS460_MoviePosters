@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
         List<MoviePoster> posters = new ArrayList<>();
         posters.add(new MoviePoster(R.drawable.avengers, "Avengers", "4.8", "Marvel Studios", "Superhero action movie"));
         posters.add(new MoviePoster(R.drawable.batman, "Batman", "4.7", "DC Comics", "Dark Knight's saga"));
-        posters.add(new MoviePoster(R.drawable.bullet, "Bullet", "4.3", "Action Studio", "High-octane action"));
+        posters.add(new MoviePoster(R.drawable.bullet, "Bullet Train", "4.3", "Action Studio", "High-octane action"));
         posters.add(new MoviePoster(R.drawable.deadpool, "Deadpool", "4.6", "Marvel Studios", "Merc with a mouth"));
         posters.add(new MoviePoster(R.drawable.dune, "Dune", "4.2", "Denis Villeneuve", "Epic sci-fi saga"));
         posters.add(new MoviePoster(R.drawable.harry_potter, "Harry Potter", "4.8", "J.K. Rowling", "Wizarding world adventure"));
